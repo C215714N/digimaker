@@ -1,0 +1,28 @@
+{
+  "name": "digimaker",
+  "version": "0.0.0",
+  "description": "proyecto cuya finalidad consiste en facilitar la creacion de nuevos modulos para la aplicacion digihub o similares, mediante la implementacion de comandos personalizados que simplifiquen la gestion del proyecto.",
+  "keywords": [
+    "\"gestion",
+    "de",
+    "proyectos\"",
+    "\"administrador",
+    "de",
+    "modulos\""
+  ],
+  "homepage": "https://github.com/digitalers-lx19/digimaker#readme",
+  "bugs": {
+    "url": "https://github.com/digitalers-lx19/digimaker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalers-lx19/digimaker.git"
+  },
+  "license": "ISC",
+  "author": "Grupo de alumnos NodeJS Digitalers LX-19hs",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
